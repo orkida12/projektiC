@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1685006912 source:c:\users\user\desktop\cproject\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"TEA.h"
+	"ORKIDA.h"
+	"ERA.h"
+	"ROSILDA.h"
+
+1685006894 c:\users\user\desktop\cproject\main\structures.h
+
+1685000287 c:\users\user\desktop\cproject\main\tea.h
+
+1685000287 c:\users\user\desktop\cproject\main\orkida.h
+
+1685000287 c:\users\user\desktop\cproject\main\era.h
+
+1685000287 c:\users\user\desktop\cproject\main\rosilda.h
+
